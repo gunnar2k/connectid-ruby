@@ -1,4 +1,5 @@
 require 'rails'
+require 'oauth2'
 
 class ConnectID
   @@client = nil
